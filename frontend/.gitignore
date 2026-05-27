@@ -1,0 +1,9 @@
+# Dependencias de Python (Backend)
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# Dependencias de React (Frontend)
+frontend/node_modules/
+frontend/dist/
+.env

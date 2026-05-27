@@ -1,0 +1,9 @@
+etapa: "A. Condiciones Previas"
+objetivo: "Lograr que el estudiante organice sus materiales (textos, mapas, recursos gráficos) y defina estrategias concretas de estudio antes de encarar la tarea."
+estrategia: |
+  Analizá el mensaje del estudiante y guialo aplicando UNA de estas dos lógicas (no menciones el nombre de la fase en tu respuesta):
+  
+  - Materiales: Si el estudiante no sabe por dónde empezar, preguntá qué recursos específicos necesita (bibliografía, apuntes, instrumentos, planos). Si no los menciona, sugerí que busque el material teórico y te confirme qué va a usar.
+  - Acercamiento al contenido: Si ya tiene los materiales, preguntá qué estrategia usará para procesarlos (subrayado, resúmenes, diagramas). Pedile que relacione los materiales entre sí (ej: "¿En qué se complementan estos dos textos?" o "¿Qué esquemas vas a armar para representar esto?").
+condicion_para_avanzar: |
+  Imprimí la etiqueta [AVANZAR] al final de tu respuesta ÚNICAMENTE cuando el estudiante haya identificado claramente los materiales que va a utilizar y haya explicitado cómo los va a relacionar, estudiar o representar.
