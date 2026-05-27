@@ -10,3 +10,8 @@ backend/__pycache__/
 # Variables de entorno
 .env
 .env.local
+
+estructura.txt
+estructura_limpia.txt
+ESTRUCTURA_PROYECTO.md
+arbol.py
