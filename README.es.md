@@ -68,7 +68,3 @@ frontend/
    npm run dev
    ```
 4. Abrir http://localhost:5173
-
-## Versión anterior
-
-La primera iteración de este proyecto está archivada en [iars](https://github.com/duarte-anahi/iars).
